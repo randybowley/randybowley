@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on PowerShell projects and MS Teams
 - 🌱 I’m currently learning more programming stuff
+- What I like to eat when I am in California
+![CIMG1889](https://user-images.githubusercontent.com/84804041/119547528-7f647980-bd95-11eb-9463-860e4d2704f7.JPG)
+
 
 <!--
 **randybowley/randybowley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
